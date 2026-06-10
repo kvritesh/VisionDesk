@@ -48,10 +48,14 @@ ETC...
 
 
 ## Future Enhancements
-- Voice Commands
-- Custom Gestures
-- Multi Monitor Support
-- AI Gesture Training
+
+- Voice Commands: Enable hands-free control through speech recognition for executing mouse and system actions.
+
+- Custom Gestures: Allow users to define and train their own gestures for personalized controls.
+
+- Multi-Monitor Support: Extend cursor tracking and gesture functionality across multiple displays.
+
+- AI Gesture Training: Use machine learning to learn user-specific hand movements and improve recognition accuracy over time.
 
 
 ## GESTURE CHEAT SHEET
