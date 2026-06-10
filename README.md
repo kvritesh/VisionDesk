@@ -12,15 +12,15 @@ VisionDesk is a gesture-controlled virtual mouse platform that uses Computer Vis
 - Brightness Control
 - Vertical Scrolling
 - Horizontal Scrolling
--Alt + Tab Application Switching
--Play / Pause Media
--Screenshot Capture
--FPS Counter
--Live Gesture HUD
--Help Overlay
+- Alt + Tab Application Switching
+- Play / Pause Media
+- Screenshot Capture
+- FPS Counter
+- Live Gesture HUD
+- Help Overlay
 
 ## Technologies Used
-- Python
+- Python 3.11
 - OpenCV
 - MediaPipe
 - PyAutoGUI
