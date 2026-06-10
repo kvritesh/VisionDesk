@@ -32,9 +32,9 @@ VisionDesk is a gesture-controlled virtual mouse platform that uses Computer Vis
 - Multi Monitor Support
 - AI Gesture Training
 
-==========================
-       VISIONDESK
-==========================
+
+## GESTURE CHEAT SHEET
+
 
 ✌ V Gesture           → Move Cursor
 
