@@ -20,9 +20,6 @@ VisionDesk is a gesture-controlled virtual mouse platform that uses Computer Vis
 - PyAutoGUI
 - PyCAW
 
-## Architecture
-[Insert Diagram]
-
 ## Screenshots
 [Insert Images]
 
