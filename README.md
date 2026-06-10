@@ -20,11 +20,16 @@ VisionDesk is a gesture-controlled virtual mouse platform that uses Computer Vis
 - Help Overlay
 
 ## Technologies Used
-- Python 3.11
-- OpenCV
-- MediaPipe
-- PyAutoGUI
-- PyCAW
+
+- Python 3.11: Core programming language used to implement gesture recognition, system controls, and application logic.
+
+- OpenCV: Captures webcam video frames and performs real-time image processing for gesture detection.
+
+- MediaPipe: Provides AI-powered hand landmark tracking and hand gesture recognition capabilities.
+
+- PyAutoGUI: Simulates mouse movements, clicks, dragging, scrolling, keyboard shortcuts, and screenshot actions.
+
+- PyCAW: Controls Windows system audio volume through gesture-based commands.
 
 ## Screenshots
 MOVE CURSOR
