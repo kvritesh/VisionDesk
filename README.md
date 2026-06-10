@@ -34,7 +34,11 @@ DRAG AND DROP
 VOLUME?BRIGHTNESS CONTROL
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/bf743b01-b6fa-4641-83d6-e94a7bf27500" />
 
-ETC
+GESTURE CHEAT SHEET(H)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7a520b64-db2d-41e5-bf0a-f42802021035" />
+
+
+ETC...
 
 
 ## Future Enhancements
