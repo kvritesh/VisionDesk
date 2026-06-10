@@ -46,26 +46,20 @@ ETC
 
 ## GESTURE CHEAT SHEET
 
-Gesture Cheat Sheet
-Gesture	Action
-✌ V Gesture	Move Cursor
-☝ Index Finger	Right Click
-🖕 Middle Finger	Left Click
-🤏 Two Fingers Closed	Double Click
-✊ Fist	Drag & Drop
-🤏 Pinch (Major Hand) Horizontal	Brightness Control
-🤏 Pinch (Major Hand) Vertical	Volume Control
-🤏 Pinch (Minor Hand) Horizontal	Horizontal Scroll
-🤏 Pinch (Minor Hand) Vertical	Vertical Scroll
-🤙 Pinky Finger Only	Alt + Tab (Switch Applications)
-💍 Ring Finger Only	Play / Pause Media
-👍 Thumb Only	Screenshot Capture
-🖐 Open Palm	Idle / Reset Cooldowns
-H Key	Toggle Help Overlay
-ENTER Key	Exit Program
-🤏 Pinch (Minor Hand)
-   ↔ Horizontal       → Horizontal Scroll
-   ↕ Vertical         → Vertical Scroll
+## Gesture Cheat Sheet
 
-ENTER Key             → Exit Program
-==========================
+- ✌ V Gesture → Move Cursor
+- ☝ Index Finger → Right Click
+- 🖕 Middle Finger → Left Click
+- 🤏 Two Fingers Closed → Double Click
+- ✊ Fist → Drag & Drop
+- 🤏 Pinch (Major Hand) Horizontal → Brightness Control
+- 🤏 Pinch (Major Hand) Vertical → Volume Control
+- 🤏 Pinch (Minor Hand) Horizontal → Horizontal Scroll
+- 🤏 Pinch (Minor Hand) Vertical → Vertical Scroll
+- 🤙 Pinky Finger Only → Alt + Tab
+- 💍 Ring Finger Only → Play / Pause Media
+- 👍 Thumb Only → Screenshot Capture
+- 🖐 Open Palm → Idle / Reset Cooldowns
+- H Key → Toggle Help Overlay
+- ENTER Key → Exit Program
